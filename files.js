@@ -49,5 +49,5 @@ if(fs.existsSync('./docs/deleteme.txt')){    //jo deleteme.txt hoy exist to ae f
         }
         console.log('file deleted')
     })
-}
+} 
   //
